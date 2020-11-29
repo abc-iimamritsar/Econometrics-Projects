@@ -1,0 +1,58 @@
+
+=============================================================
+                                      Dependent variable:    
+                                  ---------------------------
+                                         GDPgrowthrate       
+-------------------------------------------------------------
+Inflation                                   0.444**          
+                                            (0.201)          
+                                                             
+MurderHomicidepercapita                    -308.583          
+                                           (232.383)         
+                                                             
+RAPEpercapita                              884.183*          
+                                           (518.842)         
+                                                             
+KIDNAPPINGandABDUCTIONpercapita             216.707          
+                                           (473.253)         
+                                                             
+DACOITYRobberyTheftpercapita                -25.804          
+                                           (24.173)          
+                                                             
+RIOTSpercapita                              251.623          
+                                           (182.751)         
+                                                             
+CRIMINALBREACHOFTRUSTpercapita              507.226          
+                                           (913.654)         
+                                                             
+CHEATINGpercapita                           182.123          
+                                           (186.522)         
+                                                             
+COUNTERFIETINGpercapita                    -177.444          
+                                          (2,365.035)        
+                                                             
+ARSONpercapita                              -55.302          
+                                           (854.701)         
+                                                             
+HURTGREVIOUSHURTpercapita                   -60.150          
+                                           (59.123)          
+                                                             
+ASSAULTONWOMENpercapita                   -329.336**         
+                                           (136.855)         
+                                                             
+CAUSINGDEATHBYNEGLIGENCEpercapita          281.191*          
+                                           (156.510)         
+                                                             
+OTHERIPCCRIMESpercapita                     19.775           
+                                           (20.835)          
+                                                             
+Constant                                   0.127***          
+                                            (0.025)          
+                                                             
+-------------------------------------------------------------
+Observations                                  310            
+R2                                           0.081           
+Adjusted R2                                  0.037           
+F Statistic                                25.851**          
+=============================================================
+Note:                             *p<0.1; **p<0.05; ***p<0.01
